@@ -1,39 +1,38 @@
-# CodeAlpha Data Analytics Internship Tasks
+# IMDb Movie Review Sentiment Analysis
 
-## Internship Domain
-Data Analytics
+## Project Overview
+This project performs sentiment analysis on IMDb movie reviews using Python and Natural Language Processing (NLP).
 
-## Completed Tasks
+The project analyzes review text data and classifies sentiments as Positive, Negative, or Neutral using the TextBlob library.
 
-### 1. Exploratory Data Analysis (EDA)
-- Student Performance Dataset Analysis
-- Data cleaning and visualization
-- Statistical analysis and insights
-
-### 2. Sentiment Analysis
-- IMDb Movie Review Sentiment Analysis
-- NLP using TextBlob
-- Sentiment classification and visualization
-
-### 3. Data Visualization
-- Netflix Dataset Visualization
-- Trend analysis and graphical insights
-- Multiple chart visualizations
+Dataset source: IMDb Movie Reviews Dataset from kaggle
 
 ## Technologies Used
 - Python
 - Pandas
-- Matplotlib
-- Seaborn
 - TextBlob
+- Matplotlib
 - Jupyter Notebook
 
-## Repository Structure
-Each folder contains:
-- Project notebook
-- README file
-- Screenshots
-- Dataset analysis
+## Project Tasks
+- Load IMDb review dataset
+- Analyze review sentiments
+- Classify reviews into sentiment categories
+- Visualize sentiment distribution using graphs
+- Generate insights from sentiment patterns
+
+## Features
+- Sentiment classification
+- NLP-based text analysis
+- Sentiment distribution visualization
+- Real review dataset analysis
+
+## Example Output
+Input Review:
+"This movie was fantastic and inspiring."
+
+Predicted Sentiment:
+Positive
 
 ## Conclusion
-These projects were completed as part of the CodeAlpha Data Analytics Internship program to demonstrate practical skills in data analysis, visualization, and NLP.
+This project demonstrates the use of Natural Language Processing (NLP) techniques for analyzing public opinion from movie reviews.
