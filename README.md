@@ -16,9 +16,9 @@ Data Analytics
 - Sentiment classification and visualization
 
 ### 3. Data Visualization
-- Netflix Dataset Visualization
-- Trend analysis and graphical insights
-- Multiple chart visualizations
+- Sample Superstore Sales Data Visualization
+- Business trend and sales analysis
+- Charts, graphs, and visual insights
 
 ## Technologies Used
 - Python
@@ -36,4 +36,4 @@ Each folder contains:
 - Dataset analysis
 
 ## Conclusion
-These projects were completed as part of the CodeAlpha Data Analytics Internship program to demonstrate practical skills in data analysis, visualization, and NLP.
+These projects were completed as part of the CodeAlpha Data Analytics Internship program to demonstrate practical skills in data analysis, data visualization, and Natural Language Processing (NLP).
