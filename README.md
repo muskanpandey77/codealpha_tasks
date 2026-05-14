@@ -1,2 +1,39 @@
-# codealpha_tasks
-CodeAlpha Data Analytics Internship tasks including EDA, Sentiment Analysis, and Data Visualization projects using Python.
+# CodeAlpha Data Analytics Internship Tasks
+
+## Internship Domain
+Data Analytics
+
+## Completed Tasks
+
+### 1. Exploratory Data Analysis (EDA)
+- Student Performance Dataset Analysis
+- Data cleaning and visualization
+- Statistical analysis and insights
+
+### 2. Sentiment Analysis
+- IMDb Movie Review Sentiment Analysis
+- NLP using TextBlob
+- Sentiment classification and visualization
+
+### 3. Data Visualization
+- Netflix Dataset Visualization
+- Trend analysis and graphical insights
+- Multiple chart visualizations
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- TextBlob
+- Jupyter Notebook
+
+## Repository Structure
+Each folder contains:
+- Project notebook
+- README file
+- Screenshots
+- Dataset analysis
+
+## Conclusion
+These projects were completed as part of the CodeAlpha Data Analytics Internship program to demonstrate practical skills in data analysis, visualization, and NLP.
