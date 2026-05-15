@@ -5,7 +5,9 @@ This project performs sentiment analysis on IMDb movie reviews using Python and 
 
 The project analyzes review text data and classifies sentiments as Positive, Negative, or Neutral using the TextBlob library.
 
-Dataset source: IMDb Movie Reviews Dataset from kaggle
+## Dataset Source
+IMDb Movie Reviews Dataset from Kaggle:
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 ## Technologies Used
 - Python
